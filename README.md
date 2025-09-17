@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushkaBhargava-philips
 - 👀 I’m interested in working on 
 - 🌱 I’m currently learning new technologies and what they have to offer!
-- 💞️ I’m looking to collaborate on HSDP
+- 💞️ I’m looking to collaborate with IBE
 - 😄 Pronouns: she/her
 
 <!---
